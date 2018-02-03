@@ -1,0 +1,2 @@
+# JavaSampleCode39
+インターフェース
