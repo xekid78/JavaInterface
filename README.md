@@ -6,7 +6,7 @@
 
 ## コード
 ```
-public class Sample39 {
+public class Interface {
 
 	public static void main(String[] args) {
 		Add add = new Add();
@@ -46,5 +46,6 @@ class Add implements Calc {
 ## 開発環境
 | 開発ツール |  |
 |:-|:-|
+| OS | Windows10 |
 | 統合開発環境(IDE) | Eclipse 4.7.0 Oxygen |
 | 開発言語 | Java8 |
